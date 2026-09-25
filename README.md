@@ -1,7 +1,7 @@
 # Automatización agéntica con n8n — Material del libro
 
 Repositorio companion del libro **«Automatización agéntica con n8n»**
-(Henry Ramírez Reyes, serie INTELIGENCIA ARTIFICIAL, Studio35).
+(Henry Ramírez Reyes, serie INTELIGENCIA ARTIFICIAL, Toolbox Design).
 
 Aquí viven los workflows del libro, exportados en JSON y listos para
 importar en n8n. El Anexo A del libro explica, paso a paso y sin
